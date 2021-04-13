@@ -1,3 +1,7 @@
+For this assignment I was tasked to use D3 to read into a JSON file containing multiple rows of data of OTU's. I had to read the data, then plot the data using a bar chart, a demographic table and a bubble chart. 
+
+
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
